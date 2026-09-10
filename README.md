@@ -1,4 +1,4 @@
-# devPilot 🚀
+# Github Repository AI Chatbot 🚀
 
 > **AI-Powered GitHub Repository Assistant & Interactive Codebase Chatbot**
 
